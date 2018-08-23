@@ -1,0 +1,1 @@
+This repo contains practice problems from http://codeforces.com/problemset?order=BY_SOLVED_DESC solved and implemented using Python in Jupyter Notebooks.
